@@ -1,0 +1,1 @@
+# maven-sparkjava-dockersetup
