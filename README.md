@@ -1,3 +1,8 @@
+Create Jar:
+```
+mvn clean package
+```
+
 # maven-sparkjava-dockersetup
 Build Docker Image
 Make sure you are in your project root (where Dockerfile is located), then run:
